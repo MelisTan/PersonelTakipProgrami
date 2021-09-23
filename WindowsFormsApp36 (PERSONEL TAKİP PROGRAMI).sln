@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp36 (PERSONEL TAKİP PROGRAMI)", "WindowsFormsApp36 (PERSONEL TAKİP PROGRAMI)\WindowsFormsApp36 (PERSONEL TAKİP PROGRAMI).csproj", "{A734851A-2EA6-4360-86DC-3F619587A5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A734851A-2EA6-4360-86DC-3F619587A5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A734851A-2EA6-4360-86DC-3F619587A5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A734851A-2EA6-4360-86DC-3F619587A5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A734851A-2EA6-4360-86DC-3F619587A5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA48BF6-83DE-46EE-A088-5FFAE0970FA1}
+	EndGlobalSection
+EndGlobal
